@@ -8,7 +8,7 @@ Preview images of working REST API
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/adityachaudahry147/color_picker
+$ git clone https://github.com/adityachaudahry147/color_picker.git
 $ cd color_picker
 ```
 
